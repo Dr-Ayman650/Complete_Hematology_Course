@@ -1,0 +1,18 @@
+{
+  "name": "complete-hematology-course",
+  "version": "1.0.0",
+  "description": "Visual Clinical Hematology — Illustrated Atlas & Lecture Compendium",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "hematology",
+    "medical",
+    "education",
+    "atlas"
+  ],
+  "author": "Dr. Ayman",
+  "license": "ISC"
+}
